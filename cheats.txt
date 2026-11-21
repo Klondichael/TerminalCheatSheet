@@ -1,5 +1,5 @@
 color 19
 color 0a
 tree /F /A
-echo ^_^
-echo \(^o^)/
+echo ^^_^^
+echo \(^^o^^)/
